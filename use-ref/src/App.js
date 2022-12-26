@@ -1,12 +1,12 @@
 
 import './App.css';
-import { Formulario } from './componentes/Formulario';
+import { Ejemplo } from './componentes/Ejemplo';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Formulario/>
+        <Ejemplo/>
       </header>
     </div>
   );
